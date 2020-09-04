@@ -21,4 +21,4 @@ const titleCased = (input) => {
     let response = capitalizedTokens.join(' ')
     return response
   })
- 
+}
